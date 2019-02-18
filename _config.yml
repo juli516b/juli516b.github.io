@@ -37,7 +37,7 @@ avatar: "/img/avatar.jpg"
 
 # --- Background image options --- #
 
-# navbar-img: "/img/bgimage.png"
+navbar-img: "/img/navbarimage.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
