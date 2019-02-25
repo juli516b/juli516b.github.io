@@ -25,8 +25,11 @@ The question to choose either a database-centric or domain-centric way of design
 In my project I will focus on a Microservice Architecture in the bigger picture. Each service will be designed domain driven with Clean Architecture. I look forward to learn more about this great stuff, and I sure hope the experiences I make on this semester is going to be invaluable to me in my career. 
 
 Resources:
+
 [Martin Fowlers website](https://martinfowler.com/)
+
 [Enterprise Practices](https://enterprisecraftsmanship.com/2015/11/19/domain-centric-vs-data-centric-approaches-to-software-development/)
+
 [Clean Architecture: A Craftsman's Guide to Software Structure and Design]( https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 
 
