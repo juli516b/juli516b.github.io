@@ -5,7 +5,7 @@ title: Resources I have been using through this semester.
 
 #### Courses:
 
-[[https://medium.freecodecamp.org/free-online-programming-computer-science-courses-you-can-start-in-february-e621d959e64]]
+https://medium.freecodecamp.org/free-online-programming-computer-science-courses-you-can-start-in-february-e621d959e64
 
 https://app.pluralsight.com/paths/skill/domain-driven-design
 
