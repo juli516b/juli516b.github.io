@@ -26,6 +26,7 @@ navbar-links:
   About: "aboutme"
   Resources: "resources"
   My project group: 
+   - Jesper: "enmango.dk"
    - Lars: "https://larzraz.github.io"
    - Lasse: "#"
    - Mathias: "https://mnabe.github.io"
