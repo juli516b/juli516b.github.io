@@ -1,4 +1,7 @@
-### Resources I have been using through this semester.
+---
+layout: page
+title: Resources I have been using through this semester.
+---
 
 #### Courses:
 
